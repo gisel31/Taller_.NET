@@ -1,0 +1,17 @@
+C:\Users\cesar\Desktop\NET\Taller_.NET\practico1-Practico2\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\Users\cesar\Desktop\NET\Taller_.NET\practico1-Practico2\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+C:\Users\cesar\Desktop\NET\Taller_.NET\practico1-Practico2\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\cesar\Desktop\NET\Taller_.NET\practico1-Practico2\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\cesar\Desktop\NET\Taller_.NET\practico1-Practico2\DataAccessLayer\bin\Debug\net7.0\Shared.dll
+C:\Users\cesar\Desktop\NET\Taller_.NET\practico1-Practico2\DataAccessLayer\bin\Debug\net7.0\Shared.pdb
+C:\Users\cesar\Desktop\NET\Taller_.NET\practico1-Practico2\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\cesar\Desktop\NET\Taller_.NET\practico1-Practico2\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\Desktop\NET\Taller_.NET\practico1-Practico2\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\cesar\Desktop\NET\Taller_.NET\practico1-Practico2\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\cesar\Desktop\NET\Taller_.NET\practico1-Practico2\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Desktop\NET\Taller_.NET\practico1-Practico2\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\cesar\Desktop\NET\Taller_.NET\practico1-Practico2\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Users\cesar\Desktop\NET\Taller_.NET\practico1-Practico2\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Users\cesar\Desktop\NET\Taller_.NET\practico1-Practico2\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\cesar\Desktop\NET\Taller_.NET\practico1-Practico2\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\cesar\Desktop\NET\Taller_.NET\practico1-Practico2\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
